@@ -1,5 +1,6 @@
 import imageSearchServices from './services/image-search-services';
 import * as basicLightbox from 'basiclightbox';
+import '../../node_modules/basiclightbox/dist/basicLightbox.min.css';
 import imageCard from '../templates/image-card.hbs';
 
 const refs = {
